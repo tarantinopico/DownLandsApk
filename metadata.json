@@ -1,0 +1,6 @@
+{
+  "name": "DownLands",
+  "description": "A smart dashboard for your Downloads folder. Browse, search, categorize, and open your downloaded files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
